@@ -1,10 +1,4 @@
-      ******************************************************************
-      * Author: SimpleWalker
-      * Date: 06/07/2020
-      * Purpose: Calculator
-      * Tectonics: cobc
-      ******************************************************************
-       IDENTIFICATION DIVISION.
+IDENTIFICATION DIVISION.
        PROGRAM-ID. COBOLCalc.
 	   DATA DIVISION.
 	   FILE SECTION.

@@ -6,8 +6,8 @@
       ******************************************************************
        IDENTIFICATION DIVISION.
        PROGRAM-ID. COBOLCalc.
-       DATA DIVISION.
-       FILE SECTION.
+	   DATA DIVISION.
+	   FILE SECTION.
        WORKING-STORAGE SECTION.
            01 num1 PIC 9(4).
            01 num2 PIC 9(4).

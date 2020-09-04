@@ -19,7 +19,7 @@ PROCEDURE DIVISION.
     SUBTRACT Num1 FROM Num2 GIVING Result4
     MULTIPLY Num1 BY Num2 GIVING Result1
     DIVIDE Num1 INTO Num2 GIVING Result2
-    COMPUTE Result5 = Num1 /2 * (Num2–7)
+    COMPUTE Result5 = (Num1 /2) * (Num2–7)
     DISPLAY "Resultado de la multiplicacion es: ", Result1
     DISPLAY "Resultado de la division es: ", Result2
     DISPLAY "Resultado de la suma es: ", Result3
